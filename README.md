@@ -1,56 +1,67 @@
-<h1 align="center">Hey, I'm Zahra Qorbany 👋</h1>
-
-<h3 align="center">🎨 Front-end Developer with a Designer's Eye</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Zahra%20Qorbany&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20with%20a%20Designer's%20Eye%20🎨&descAlignY=55&descSize=18" />
 
 <p align="center">
-Crafting clean, visual, and thoughtfully designed web experiences ✨
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
 </p>
-
-<br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Building+things+that+look+good+%F0%9F%8E%A8;Learning+JavaScript+%E2%86%92+React+%F0%9F%9A%80;Design+meets+Code+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=600&lines=Crafting+pixel-perfect+UIs+%F0%9F%8E%A8;Learning+JavaScript+%E2%86%92+React+%F0%9F%9A%80;Design+meets+Code+%F0%9F%92%BB;Built+from+scratch%2C+not+templates+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?color=f72585&label=Profile%20Views&query=%24.count&url=https://api.countapi.xyz/hit/zarghn/views&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=zarghn&style=for-the-badge&color=7209b7&label=VISITORS" alt="Profile views" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ### 🧵 About Me
 
-* 🎓 Finishing up **JavaScript**, starting **React** next week
-* 🎨 I come from a **graphic design** background — code is just my new canvas
-* 🌱 Currently focused on building clean, custom UIs from scratch (no templates, no copy-paste)
-* 💬 Ask me about design systems, UI/UX, or vanilla JavaScript projects
-* 📍 Based in Iran
+```javascript
+const zahra = {
+  role: "Front-end Developer 🎨",
+  background: "Graphic Design 🖌️",
+  currentlyLearning: ["JavaScript (finishing up)", "React (starting next week 🚀)"],
+  philosophy: "code is just my new canvas",
+  focus: "clean, custom UIs — no templates, no copy-paste",
+  location: "Iran 📍"
+};
+```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-Learning_Soon-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,figma,photoshop,git,vscode&theme=dark" />
 </p>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zarghn&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarghn&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zarghn&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarghn&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zarghn&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zarghn&theme=synthwave&hide_border=true&background=00000000" />
 </p>
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zarghn&theme=algolia&no-frame=true&margin-w=10&row=1" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/zarghn/zarghn/output/github-contribution-grid-snake.svg" />
+</p>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ### 🌐 Let's Connect
 
@@ -66,12 +77,8 @@ Crafting clean, visual, and thoughtfully designed web experiences ✨
 </a>
 </p>
 
----
-
 <p align="center">
 <i>"Design is the silent ambassador of your code."</i>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=zarghn&style=for-the-badge&color=e63946" alt="Profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
