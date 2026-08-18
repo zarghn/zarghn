@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/zarghn/zarghn/main/assets/welcome-banner.svg" />
+<img width="100%" src="https://github.com/zarghn/zarghn/blob/main/.github/workflows/welcome-banner_1.svg" />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zahra-qorbany-054909273/" target="_blank">
