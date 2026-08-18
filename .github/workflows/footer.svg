@@ -1,0 +1,9 @@
+<svg width="100%" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="90" fill="#141414"/>
+  <text x="600" y="40" text-anchor="middle" font-family="'Courier New', monospace" font-style="italic" font-size="17" fill="#f6ecd9" opacity="0.85">
+    " Design is the silent ambassador of your code "
+  </text>
+  <text x="600" y="68" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#b5623d" letter-spacing="2">
+    — Z. QORBANY —
+  </text>
+</svg>
