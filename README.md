@@ -68,10 +68,10 @@ Hello there! I'm **Zahra Qorbany**, a Front-end Developer with a graphic design 
 
 <img width="100%" height="3" src="https://singlecolorimage.com/get/B5623D/1000x3">
 
-<h3>🐍 Contribution Snake</h3>
+<!-- <h3>🐍 Contribution Snake</h3>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/zarghn/zarghn/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</p> -->
 
 <img width="100%" src="https://github.com/zarghn/zarghn/blob/main/.github/workflows/footer.svg" />
