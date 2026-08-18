@@ -74,4 +74,4 @@ Hello there! I'm **Zahra Qorbany**, a Front-end Developer with a graphic design 
 <img src="https://raw.githubusercontent.com/zarghn/zarghn/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img width="100%" src="https://raw.githubusercontent.com/zarghn/zarghn/main/assets/footer.svg" />
+<img width="100%" src="https://github.com/zarghn/zarghn/blob/main/.github/workflows/footer.svg" />
