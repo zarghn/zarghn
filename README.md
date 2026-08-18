@@ -32,7 +32,7 @@ Hello there! I'm **Zahra Qorbany**, a Front-end Developer with a graphic design 
 
 </td>
 <td width="35%" align="center">
-<img width="90%" src="https://raw.githubusercontent.com/zarghn/zarghn/main/assets/reading-corner.svg" />
+<img width="90%" src="https://github.com/zarghn/zarghn/blob/main/.github/workflows/reading-corner.svg" />
 </td>
 </tr>
 </table>
