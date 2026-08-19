@@ -24,7 +24,7 @@ Hello there! I'm **Zahra Qorbany**, a Front-end Developer with a graphic design 
 
 🎨 &nbsp;Coming from a graphic design background
 
-💻 &nbsp;Learning JavaScript
+💻 &nbsp;JavaScript Vanilla
 
 🧵 &nbsp;Focused on building things that look good AND work well
 
