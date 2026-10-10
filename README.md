@@ -22,7 +22,7 @@
 
 <p align="center"><img src="./assets/title-tech.svg" width="620" alt="Technologies" /></p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,cpp,java,js,react,html,css,tailwind,mysql&perline=10" alt="tech row 1" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,cpp,java,js,ts,react,next,html,css,tailwind,mysql&perline=6" alt="tech row" /></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="design tools" />
