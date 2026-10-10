@@ -26,7 +26,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="design tools" />
-<img src="https://img.shields.io/badge/Procreate-454440?style=for-the-badge&logo=procreate&logoColor=e8a89a" alt="Procreate" height="48" />
+<img src="https://i.pinimg.com/736x/a0/c5/2a/a0c52a9161464b1736c6ff00cf49d81f.jpg" alt="Procreate" height="48" />
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
@@ -43,3 +43,4 @@
 <p align="center"><img src="./assets/quote.svg" width="700" alt="Design is the silent ambassador of your code - Z. QORBANY" /></p>
 
 </div>
+
