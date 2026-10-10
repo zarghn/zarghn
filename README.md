@@ -16,7 +16,7 @@
 
 <p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
 
-<p align="center"><img src="./assets/about-box.svg" width="760" alt="about me" /></p>
+<p align="center"><img src="./assets/about-box.svg" width="520" alt="about me" align="middle" />&nbsp;<img src="./assets/walking.png" height="330" alt="walking sketch" align="middle" /></p>
 
 <p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
 
@@ -43,4 +43,3 @@
 <p align="center"><img src="./assets/quote.svg" width="700" alt="Design is the silent ambassador of your code - Z. QORBANY" /></p>
 
 </div>
-
