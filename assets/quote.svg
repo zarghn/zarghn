@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="190" viewBox="0 0 700 190" fill="none">
+  <defs>
+    <path id="sp" d="M0 -9 Q0 0 9 0 Q0 0 0 9 Q0 0 -9 0 Q0 0 0 -9Z"/>
+  </defs>
+
+  <rect x="3" y="3" width="694" height="184" rx="16" fill="#454440"/>
+  <rect x="11" y="11" width="678" height="168" rx="11" stroke="#c0392b" stroke-width="2" stroke-dasharray="10 8" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="-72" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- big decorative quote marks, kept in the corners so they never touch the text -->
+  <text x="28" y="80" font-family="Georgia, serif" font-size="80" fill="#5a1c1e">&#8220;</text>
+  <text x="632" y="170" font-family="Georgia, serif" font-size="80" fill="#5a1c1e">&#8221;</text>
+
+  <!-- quote -->
+  <text x="350" y="88" text-anchor="middle" font-family="Courier New, monospace" font-size="20" font-weight="700" fill="#f2d9d1">Design is the <tspan fill="#e8695c">silent ambassador</tspan> of your code</text>
+
+  <!-- pencil underline, redrawn on loop -->
+  <path d="M88 102 q10 -7 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" stroke="#e8a89a" stroke-width="2.5" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+    <animate attributeName="stroke-dashoffset" values="1;0;0;1" keyTimes="0;0.4;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- author -->
+  <text x="350" y="146" text-anchor="middle" font-family="Courier New, monospace" font-size="14" letter-spacing="5" fill="#e8695c">- Z. QORBANY -</text>
+
+  <!-- floating hearts -->
+  <text x="100" y="160" font-size="16" fill="#e8695c" opacity="0">&#9829;
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -22" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="560" y="62" font-size="13" fill="#e8a89a" opacity="0">&#9829;
+    <animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -20" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- sparkles -->
+  <g transform="translate(150 40)">
+    <use href="#sp" fill="#e8a89a">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.1;0.5" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g transform="translate(620 40)">
+    <use href="#sp" fill="#e8695c">
+      <animateTransform attributeName="transform" type="scale" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g transform="translate(540 160)">
+    <use href="#sp" fill="#e8a89a">
+      <animateTransform attributeName="transform" type="scale" values="0.4;0.9;0.4" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>

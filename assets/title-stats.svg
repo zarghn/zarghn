@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="56" viewBox="0 0 620 56" fill="none">
+  <defs>
+    <path id="sp" d="M0 -9 Q0 0 9 0 Q0 0 0 9 Q0 0 -9 0 Q0 0 0 -9Z"/>
+  </defs>
+  <text x="310" y="34" text-anchor="middle" font-family="Courier New, monospace" font-size="26" font-weight="700" fill="#e8a89a">&lt;<tspan fill="#e8695c">Statistics</tspan> /&gt;</text>
+  <path d="M199 44 q8 -6 16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0 t16 0" stroke="#e8695c" stroke-width="2.5" stroke-linecap="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+    <animate attributeName="stroke-dashoffset" values="1;0;0;1" keyTimes="0;0.35;0.9;1" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <g transform="translate(170 26)">
+    <use href="#sp" fill="#e8a89a">
+      <animateTransform attributeName="transform" type="scale" values="0.5;1.1;0.5" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </use>
+  </g>
+  <g transform="translate(450 26)">
+    <use href="#sp" fill="#e8695c">
+      <animateTransform attributeName="transform" type="scale" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </use>
+  </g>
+</svg>
