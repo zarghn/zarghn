@@ -42,7 +42,7 @@
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.5s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.5s" begin="1.5s" fill="freeze"/>
-      <text x="34" y="152">design background. I'm learning JavaScript</text>
+      <text x="34" y="152">design background. I'm learning TS & NEXT.JS</text>
     </g>
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.8s" fill="freeze"/>
