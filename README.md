@@ -7,10 +7,10 @@
 <p align="center"><sub>✦ &nbsp;find me around the internet&nbsp; ✦</sub></p>
 
 <p align="center">
-<a href="https://t.me/YOUR-TELEGRAM"><img src="https://img.shields.io/badge/say_hi_on-TELEGRAM-c0392b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=454440" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/let's_connect-LINKEDIN-c0392b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=454440" alt="LinkedIn" /></a>
+<a href="https://t.me/zar_ghn1"><img src="https://img.shields.io/badge/say_hi_on-TELEGRAM-c0392b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=454440" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/zarghn"><img src="https://img.shields.io/badge/let's_connect-LINKEDIN-c0392b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=454440" alt="LinkedIn" /></a>
 <br/>
-<a href="https://www.tiktok.com/@YOUR-TIKTOK"><img src="https://img.shields.io/badge/watch_me_on-TIKTOK-c0392b?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=454440" alt="TikTok" /></a>
+<a href="https://www.tiktok.com/@zar_ghn"><img src="https://img.shields.io/badge/watch_me_on-TIKTOK-c0392b?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=454440" alt="TikTok" /></a>
 <a href="https://www.pinterest.com/YOUR-PINTEREST"><img src="https://img.shields.io/badge/my_moodboards-PINTEREST-c0392b?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=454440" alt="Pinterest" /></a>
 </p>
 
