@@ -1,45 +1,208 @@
 <div align="center">
 
-<img src="./assets/header.png" alt="Welcome to Zar's </> GitHub!" width="100%" />
+<img src="./assets/header.png" alt="Zahra Qorbany" width="100%" />
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3000&pause=1200&color=C0392B&center=true&vCenter=true&width=720&height=50&lines=Sketch+it.+Code+it.+Ship+it.;Pixels+are+just+doodles+with+rules;Where+pencil+strokes+become+%3Cdiv%3Es;404%3A+boring+design+not+found;Designer+by+heart%2C+developer+by+choice;I+turn+coffee+into+pixels+and+bugs+into+features;console.log%28%22hello%2C+world%22%29+but+make+it+pretty" alt="typing" /></p>
-
-<p align="center"><sub>✦ &nbsp;find me around the internet&nbsp; ✦</sub></p>
-
-<p align="center">
-<a href="https://t.me/zar_ghn1"><img src="https://img.shields.io/badge/say_hi_on-TELEGRAM-c0392b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=454440" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/zarghn"><img src="https://img.shields.io/badge/let's_connect-LINKEDIN-c0392b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=454440" alt="LinkedIn" /></a>
 <br/>
-<a href="https://www.tiktok.com/@zar_ghn"><img src="https://img.shields.io/badge/watch_me_on-TIKTOK-c0392b?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=454440" alt="TikTok" /></a>
-<a href="https://www.pinterest.com/YOUR-PINTEREST"><img src="https://img.shields.io/badge/my_moodboards-PINTEREST-c0392b?style=for-the-badge&logo=pinterest&logoColor=white&labelColor=454440" alt="Pinterest" /></a>
-</p>
 
-<p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
 
-<p align="center"><img src="./assets/about-me.svg" width="520" alt="about me" align="middle" />&nbsp;<img src="./assets/walking.png" height="330" alt="walking sketch" align="middle" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=C0392B&background=00000000&center=true&vCenter=true&width=760&height=40&lines=%3E+design.exe+--mode%3Ddeveloper;%3E+no+templates.+no+copy-paste.;%3E+pixels+are+just+doodles+with+rules;%3E+404%3A+boring+design+not+found;%3E+status%3A+building+something+worth+looking+at" alt="typing" />
 
-<p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
+<br/>
 
-<p align="center"><img src="./assets/title-tech.svg" width="620" alt="Technologies" /></p>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0d0d0d?style=flat-square&logo=telegram&logoColor=c0392b&labelColor=0d0d0d&color=c0392b)](https://t.me/zar_ghn1)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=flat-square&logo=linkedin&logoColor=c0392b&labelColor=0d0d0d&color=c0392b)](https://www.linkedin.com/in/zarghn)
+[![TikTok](https://img.shields.io/badge/TIKTOK-0d0d0d?style=flat-square&logo=tiktok&logoColor=c0392b&labelColor=0d0d0d&color=c0392b)](https://www.tiktok.com/@zar_ghn)
+[![Pinterest](https://img.shields.io/badge/PINTEREST-0d0d0d?style=flat-square&logo=pinterest&logoColor=c0392b&labelColor=0d0d0d&color=c0392b)](https://www.pinterest.com/YOUR-PINTEREST)
 
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,cpp,java,js,ts,react,next,html,css,tailwind,mysql&perline=6" alt="tech row" /></p>
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="design tools" />
-<img src="https://i.pinimg.com/736x/a0/c5/2a/a0c52a9161464b1736c6ff00cf49d81f.jpg" alt="Procreate" height="48" />
-</p>
+<br/>
 
-<p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
+## `01` &nbsp;/&nbsp; BOOT SEQUENCE
 
-<p align="center"><img src="./assets/title-stats.svg" width="620" alt="Statistics" /></p>
+```bash
+$ whoami
+> zahra qorbany — a designer who ships code
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zarghn&show_icons=true&hide_border=true&bg_color=454440&title_color=e8a89a&text_color=f2d9d1&icon_color=c0392b&ring_color=c0392b" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=zarghn&hide_border=true&background=454440&stroke=5a1c1e&ring=c0392b&fire=c0392b&currStreakNum=f2d9d1&sideNums=f2d9d1&currStreakLabel=e8a89a&sideLabels=e8a89a&dates=b89a92" alt="streak" />
-</p>
+$ cat ./origin
+> graphic design  →  front-end engineering
 
-<p align="center"><img src="./assets/divider.svg" width="620" alt="" /></p>
+$ cat ./now.json
+{
+  "learning":  ["TypeScript", "Next.js"],
+  "obsessed":  ["spacing", "type", "tiny interactions"],
+  "based_in":  "Iran",
+  "status":    "open to interesting work"
+}
 
-<p align="center"><img src="./assets/quote.svg" width="700" alt="Design is the silent ambassador of your code - Z. QORBANY" /></p>
+$ ./start --mode=creative
+[ OK ] sketchbook loaded
+[ OK ] design system mounted
+[ OK ] coffee level: critical
+[ OK ] bugs converted to features
+```
+
+---
+
+## `02` &nbsp;/&nbsp; THE SPLIT
+
+<table>
+<tr>
+<td width="34%" valign="top" align="right">
+
+<h4>THE DESIGNER</h4>
+<sub>
+grid & rhythm<br/>
+type with attitude<br/>
+color with intent<br/>
+pencil → pixels<br/>
+</sub>
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="./assets/walking.png" alt="walking sketch" width="100%" />
+
+</td>
+<td width="34%" valign="top" align="left">
+
+<h4>THE DEVELOPER</h4>
+<sub>
+components that scale<br/>
+clean, readable code<br/>
+performance that matters<br/>
+pixels → production<br/>
+</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>one brain · two hemispheres · zero handoff friction</sub></div>
+
+---
+
+## `03` &nbsp;/&nbsp; MANIFESTO
+
+```diff
+- templates
+- copy-paste components
+- default blue buttons
+- "good enough" spacing
++ interfaces drawn before they're coded
++ every pixel has a reason
++ design and code that respect each other
++ things that look good AND work well
+```
+
+---
+
+## `04` &nbsp;/&nbsp; PIPELINE
+
+<div align="center">
+
+![SKETCH](https://img.shields.io/badge/SKETCH-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logoColor=c0392b)
+![›](https://img.shields.io/badge/›-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+![WIREFRAME](https://img.shields.io/badge/WIREFRAME-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+![›](https://img.shields.io/badge/›-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+![DESIGN](https://img.shields.io/badge/DESIGN-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+![›](https://img.shields.io/badge/›-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+![CODE](https://img.shields.io/badge/CODE-c0392b?style=for-the-badge&labelColor=c0392b&color=c0392b)
+![›](https://img.shields.io/badge/›-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+![SHIP](https://img.shields.io/badge/SHIP-c0392b?style=for-the-badge&labelColor=c0392b&color=c0392b)
+
+</div>
+
+---
+
+## `05` &nbsp;/&nbsp; LOADOUT
+
+<table>
+<tr>
+<td width="140"><sub><b>INTERFACE</b></sub></td>
+<td>
+
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=c0392b)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=c0392b)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=c0392b)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=c0392b)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=c0392b)
+
+</td>
+</tr>
+<tr>
+<td><sub><b>LANGUAGES</b></sub></td>
+<td>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=c0392b)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=c0392b)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=c0392b)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=c0392b)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=c0392b)
+
+</td>
+</tr>
+<tr>
+<td><sub><b>DESIGN</b></sub></td>
+<td>
+
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=c0392b)
+![Illustrator](https://img.shields.io/badge/Illustrator-0d0d0d?style=flat-square&logo=adobeillustrator&logoColor=c0392b)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=flat-square&logo=adobephotoshop&logoColor=c0392b)
+![Procreate](https://img.shields.io/badge/Procreate-0d0d0d?style=flat-square&logoColor=c0392b)
+
+</td>
+</tr>
+<tr>
+<td><sub><b>WORKFLOW</b></sub></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=c0392b)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=c0392b)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06` &nbsp;/&nbsp; SIGNAL
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=zarghn&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c0392b&text_color=b8b8b8&icon_color=c0392b&ring_color=c0392b" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarghn&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c0392b&text_color=b8b8b8" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zarghn&bg_color=0d0d0d&color=c0392b&line=c0392b&point=e8a89a&area=true&area_color=c0392b&hide_border=true&hide_title=true" alt="activity graph" width="100%" />
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+> *Design is the silent ambassador of your code.*
+>
+> <sub>— Z. QORBANY</sub>
+
+<br/>
+
+```bash
+$ echo "see you in the next commit"
+> see you in the next commit
+$ _
+```
+
+</div>
+>
+> <sub>— Z. QORBANY</sub>
+
+<br/>
+
+<sub>◼ &nbsp; built by hand, drawn by hand &nbsp; ◼</sub>
 
 </div>
